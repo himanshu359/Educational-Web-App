@@ -11,7 +11,6 @@ import About from './Mainweb/About';
 import Contact from './Mainweb/Contact';
 import Service from './Mainweb/Service';
 import Navbarweb from "./Mainweb/Navbarweb"
-import Passage from './Components/Passage/Passage';
 import Login from "./Loginmodal/Login";
 import DragandDropActivity from './mainActivities/DragandDrop/DragandDropActivity';
 
